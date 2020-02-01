@@ -98,7 +98,7 @@ final class CKEditorRenderer implements CKEditorRendererInterface
 
         $widget = sprintf(
             'CKEDITOR.%s("%s", %s);',
-            isset($options['inline']) && $options['inline'] ? 'inline' : 'replace',
+            isset($options['replace']) && $options['replace'] ? 'replace' : 'inline',
             $id,
             $this->fixConfigConstants($builder->build())
         );
