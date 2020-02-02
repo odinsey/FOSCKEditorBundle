@@ -10,9 +10,9 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\CKEditorBundle\Config;
+namespace Odinsey\CKEditorBundle\Config;
 
-use FOS\CKEditorBundle\Exception\ConfigException;
+use Odinsey\CKEditorBundle\Exception\ConfigException;
 
 final class CKEditorConfiguration implements CKEditorConfigurationInterface
 {

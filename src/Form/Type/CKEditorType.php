@@ -10,9 +10,9 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\CKEditorBundle\Form\Type;
+namespace Odinsey\CKEditorBundle\Form\Type;
 
-use FOS\CKEditorBundle\Config\CKEditorConfigurationInterface;
+use Odinsey\CKEditorBundle\Config\CKEditorConfigurationInterface;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\Extension\Core\Type\TextareaType;
 use Symfony\Component\Form\FormBuilderInterface;

@@ -5,7 +5,7 @@
     xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd"
 >
     <services>
-        <service id="fos_ck_editor.renderer" class="FOS\CKEditorBundle\Renderer\CKEditorRenderer">
+        <service id="fos_ck_editor.renderer" class="Odinsey\CKEditorBundle\Renderer\CKEditorRenderer">
             <argument type="service" id="fos_ck_editor.builder.json_builder"/>
             <argument type="service" id="router"/>
             <argument type="service" id="assets.packages"/>

@@ -5,7 +5,7 @@
     xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd"
 >
     <services>
-        <service id="fos_ck_editor.command.installer" class="FOS\CKEditorBundle\Command\CKEditorInstallerCommand">
+        <service id="fos_ck_editor.command.installer" class="Odinsey\CKEditorBundle\Command\CKEditorInstallerCommand">
             <argument type="service" id="fos_ck_editor.installer" />
             <tag name="console.command" command="ckeditor:install" />
         </service>

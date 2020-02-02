@@ -5,7 +5,7 @@
            xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd"
 >
     <services>
-        <service id="fos_ck_editor.configuration" class="FOS\CKEditorBundle\Config\CKEditorConfiguration">
+        <service id="fos_ck_editor.configuration" class="Odinsey\CKEditorBundle\Config\CKEditorConfiguration">
             <argument type="collection" />
         </service>
     </services>

@@ -10,7 +10,7 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\CKEditorBundle\DependencyInjection;
+namespace Odinsey\CKEditorBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

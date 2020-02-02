@@ -10,7 +10,7 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\CKEditorBundle\Builder;
+namespace Odinsey\CKEditorBundle\Builder;
 
 use Symfony\Component\PropertyAccess\PropertyAccessorInterface;
 

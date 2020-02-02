@@ -10,9 +10,9 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\CKEditorBundle\Renderer;
+namespace Odinsey\CKEditorBundle\Renderer;
 
-use FOS\CKEditorBundle\Builder\JsonBuilder;
+use Odinsey\CKEditorBundle\Builder\JsonBuilder;
 use Symfony\Component\Asset\Packages;
 use Symfony\Component\HttpFoundation\RequestStack;
 use Symfony\Component\Routing\Generator\UrlGeneratorInterface;

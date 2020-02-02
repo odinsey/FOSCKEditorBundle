@@ -10,7 +10,7 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\CKEditorBundle\Renderer;
+namespace Odinsey\CKEditorBundle\Renderer;
 
 /**
  * @author GeLo <geloen.eric@gmail.com>

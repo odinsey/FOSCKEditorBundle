@@ -10,9 +10,9 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\CKEditorBundle;
+namespace Odinsey\CKEditorBundle;
 
-use FOS\CKEditorBundle\DependencyInjection\FOSCKEditorExtension;
+use Odinsey\CKEditorBundle\DependencyInjection\FOSCKEditorExtension;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 /**

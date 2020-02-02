@@ -10,9 +10,9 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\CKEditorBundle\Twig;
+namespace Odinsey\CKEditorBundle\Twig;
 
-use FOS\CKEditorBundle\Renderer\CKEditorRendererInterface;
+use Odinsey\CKEditorBundle\Renderer\CKEditorRendererInterface;
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFunction;
 

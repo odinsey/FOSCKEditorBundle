@@ -10,7 +10,7 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\CKEditorBundle\Exception;
+namespace Odinsey\CKEditorBundle\Exception;
 
 use Throwable;
 

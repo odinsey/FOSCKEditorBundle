@@ -10,9 +10,9 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\CKEditorBundle\Installer;
+namespace Odinsey\CKEditorBundle\Installer;
 
-use FOS\CKEditorBundle\Exception\BadProxyUrlException;
+use Odinsey\CKEditorBundle\Exception\BadProxyUrlException;
 use Symfony\Component\OptionsResolver\Options;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 
