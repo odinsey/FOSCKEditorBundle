@@ -18,7 +18,7 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
 /**
  * @author GeLo <geloen.eric@gmail.com>
  */
-final class FOSCKEditorBundle extends Bundle
+final class OdinseyCKEditorBundle extends Bundle
 {
     public function getContainerExtension(): FOSCKEditorExtension
     {
