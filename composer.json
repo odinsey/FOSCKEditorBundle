@@ -56,12 +56,12 @@
     },
     "autoload": {
         "psr-4": {
-            "FOS\\CKEditorBundle\\": "src/"
+            "Odinsey\\CKEditorBundle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "FOS\\CKEditorBundle\\Tests\\": "tests/"
+            "Odinsey\\CKEditorBundle\\Tests\\": "tests/"
         }
     }
 }
